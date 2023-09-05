@@ -12,8 +12,8 @@ on:
 
 jobs:
   build-push:
-    env:
-        IMAGE: jportacloud/golang-equisens-bitly
+    #env:
+    #    IMAGE: jportacloud/golang-equisens-bitly
     runs-on: ubuntu-latest
     steps:
 
